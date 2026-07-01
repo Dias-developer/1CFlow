@@ -1,0 +1,13 @@
+project_venv/
+
+.env
+
+__pycache__/
+*.pyc
+
+.idea/
+
+*.log
+
+.DS_Store
+Thumbs.db
